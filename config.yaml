@@ -1,6 +1,7 @@
 settings:
   title: 'Status Page'
   logo: logo-192x192.png # image in ./public/ folder
+  url: 'https://status-page.eidam.dev' # used for Slack & Discord messages
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
 
